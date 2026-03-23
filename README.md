@@ -1,10 +1,6 @@
 Discord Image Scraper (Self-Bot Study)
 Este projeto é um script de automação desenvolvido em Node.js utilizando a biblioteca discord.js-selfbot-v13.
 
-[!WARNING]
-
-Aviso de Isenção de Responsabilidade: Este script foi criado estritamente para fins educacionais e de aprendizado. O uso de self-bots pode violar os Termos de Serviço do Discord. Use por sua conta e risco.
-
 🚀 Como Funciona
 O script atua como um "ponte" automatizada entre dois canais:
 
